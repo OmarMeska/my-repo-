@@ -44,6 +44,8 @@ for (int i=0 ; i<n ;i++)
    conter ++ ;
 
 }
-cout << s << " " ;
+cout << "الحمدلله دائما وابدا  "  ;
+
+cout << s  ;
 
 }
